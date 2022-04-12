@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 11 20:02:43 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-190a-8d12-00000faad2b0 
+on database directory memory:/Users/arunkumar/IdeaProjects/data-course/32c1994a-a8f5-4567-ac05-18b4bc6d9730 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/arunkumar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=/Users/arunkumar/IdeaProjects/data-course
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
