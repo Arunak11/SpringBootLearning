@@ -1,6 +1,6 @@
 package CRUDandGlobalException.CustomException;
 
-public class ControllerException {
+public class ControllerException extends RuntimeException {
     private String errorCode;
     private String errorMessage;
     public ControllerException(){
